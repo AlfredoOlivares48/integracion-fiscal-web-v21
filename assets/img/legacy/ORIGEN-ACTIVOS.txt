@@ -1,0 +1,12 @@
+Activos recuperados del respaldo original integracionfiscal.com.rar entregado por el usuario.
+
+logo-garza-garza.png
+origen: integracionfiscal.com/public_html/images/logo.png
+
+documentacion-legal.jpg
+origen: integracionfiscal.com/public_html/images/img/portfolio/02m.jpg
+
+biblioteca-legal.jpg
+origen: integracionfiscal.com/public_html/images/img/portfolio/03m.jpg
+
+Antes del lanzamiento conviene confirmar derechos/autoría de las fotografías heredadas.
